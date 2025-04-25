@@ -16,7 +16,7 @@ MENTOR: NEELA SANTHOSH
 
 The Personal Productivity Tracker is a Chrome extension designed to help users optimize their productivity by tracking their online activities. Built with a React-based frontend, the extension allows users to set daily goals, monitor their time spent on various websites, and visualize their productivity trends with insightful charts.
 
-#Key Feature
+## Key Feature
 
 Set Daily Goals:
 Users can easily set daily productivity goals, helping them stay focused and achieve their personal objectives each day.
@@ -32,3 +32,6 @@ Data is saved in local storage, ensuring users can access their goals and usage 
 
 User-Friendly Interface:
 The extension features a sleek, easy-to-use UI built with React, designed to be responsive and visually appealing. The app provides a smooth experience with minimal distractions.
+
+## OUTPUT:
+![Image](https://github.com/user-attachments/assets/03fe3c5f-013a-4f95-94dc-d673cff56c67)
